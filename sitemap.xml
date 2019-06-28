@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www.game5.com/index.html</loc>
+    <lastmod>2019-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://www.game5.com/images/anm08238_1_0-crop-u724.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://www.game5.com/images/title-underline.png</image:loc>
+    </image:image>
+  </url>
+</urlset>
